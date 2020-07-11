@@ -8,7 +8,6 @@
 I'm Full-stack developer.
 
 - 🔭 I’m currently working on Ilustraviz.
-- 👯 I’m looking to collaborate on ionic with vue.
 
 
 <!--
