@@ -5,6 +5,12 @@
 
 **Welcome to my profile**
 
+I'm Full-stack developer.
+
+- 🔭 I’m currently working on Ilustraviz.
+- 👯 I’m looking to collaborate on ionic with vue.
+
+
 <!--
 **Nayas180/Nayas180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
