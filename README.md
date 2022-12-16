@@ -5,12 +5,14 @@
 <div>
   <a href="https://github.com/Nayas180">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayas180&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayas180&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+ ##
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/nayas-oliveira-23a781190/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:nayasoliveira180@gmail.com)
+
+##
   
  <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -21,6 +23,8 @@
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
+
+##  
 
 - 🌱 I’m currently learning **PHP with laravel, symfony and doctrine**, **virtual machines with docker** and **devops**.
 
