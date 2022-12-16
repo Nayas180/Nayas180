@@ -2,7 +2,7 @@
 
 <h3 align="center">A brazilian back-end developer and Student</h3>
 
-- 🌱 I’m currently learning **PHP with laravel, symfony and doctrine**, **virtual machines with docker** and **devops**.
+- 🌱 I’m currently learning **PHP - (laravel, symfony and doctrine)**, **virtual machines - (docker)** and **devops**.
 
 <div>
   <a href="https://github.com/Nayas180">
