@@ -1,4 +1,4 @@
-# Nayas Oliveira | WolveCode -- Welcome to my profile
+<h1 align="center">Welcome to my profile 👋</h1> 
 
 <h3 align="center">A brazilian back-end developer and Student</h3>
 
