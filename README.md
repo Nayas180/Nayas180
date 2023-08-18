@@ -2,7 +2,7 @@
 
 <h3 align="center">A brazilian back-end developer and Student</h3>
 
-- 🔭 I’m currently working on Ateliê de propaganda.
+- 🔭 I’m currently working on Estuda.com.
 - 🌱 I’m currently learning FIAP - Data Science and **PHP - (laravel, symfony and doctrine)**, **virtual machines - (docker)** and **devops**.
 
 <div>
