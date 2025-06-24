@@ -2,7 +2,7 @@
 
 <h3 align="center">A brazilian back-end developer and Student</h3>
 
-- 🔭 I’m currently working on Estuda.com.
+- 🔭 I’m currently working on XXX.
 - 🌱 I’m currently learning FIAP - Data Science and **PHP - (laravel, symfony and doctrine)**, **virtual machines - (docker)** and **devops**.
 
 <div>
@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
